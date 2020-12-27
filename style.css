@@ -1,0 +1,139 @@
+body {
+  font-size: 20px;
+  border: 0px;
+  margin: 0;
+  padding: 0;
+  line-height: normal;
+  background: linear-gradient(180deg, #D71313 0%, rgba(255, 255, 255, 0) 100%), #140202;
+}
+
+header{
+  flex: 0 0 auto;
+}
+main{
+  flex: 1 0 auto;
+}
+footer{
+  flex: 0 0 auto;
+}
+.header-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: black;
+  color: white;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: black;
+}
+
+.shapka {
+  display: flex;
+  text-decoration: none;
+  color:white;
+  align-items: center;
+  margin: 50px;
+}
+
+.glav {
+  padding: 20px;
+  align-items: center;
+}
+
+.menuu {
+  padding: 20px;
+  text-align: center;
+}
+
+.kontakti {
+  padding: 20px;
+  text-align: center;
+}
+
+.akcii {
+  padding: 20px;
+  text-align: center;
+}
+
+.otziv{
+  padding: 20px;
+  text-align: center;
+}
+
+.slider img {
+  margin: 0;
+  padding: 0;
+}
+
+.neew {
+  text-align: center;
+  vertical-align: top;
+  padding: 50px;
+  color: seashell;
+  font-size: 30px;
+}
+.action {
+  vertical-align: middle;
+  text-align: center;
+  padding: 50px;
+  color: seashell;
+}
+.social {
+  vertical-align: middle;
+  text-align: center;
+  color: white;
+}
+
+.menu-center {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  padding: 10px;
+  color: white;
+}
+
+.action {
+  display: flex;
+  justify-content: space-around;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+.menu h3 {
+  text-align: center; 
+  padding: 15px; 
+}
+
+.item2 {
+ margin-left: 100px;
+}
+
+.social {
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+a {
+  color: white;
+}
+
+main {
+  padding-top: 30px;
+}
+
+
+footer {
+  vertical-align: middle;
+  text-align: center;
+  color: seashell;
+}
+/* .header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: black;
+} */

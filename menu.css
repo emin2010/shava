@@ -1,0 +1,115 @@
+body {
+    font-size: 20px;
+    line-height: normal;
+    margin: 0;
+    padding: 0;
+}
+  .Menu { 
+      text-align: center;
+      color: white;
+  }
+  .header-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: black;
+    color: white;
+  }
+  
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: black;
+}
+  .icon {
+      margin-left: 50px;
+  }
+  .shapka {
+    display: flex;
+    text-decoration: none;
+    color:white;
+    align-items: center;
+    margin: 50px;
+  }
+  
+  .glav {
+    padding: 20px;
+    align-items: center;
+  }
+  
+  .menuu {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .kontakti {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .akcii {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .otziv{
+    padding: 20px;
+    text-align: center;
+  }
+  
+header{
+  flex: 0 0 auto;
+}
+main{
+  flex: 1 0 auto;
+}
+footer{
+  flex: 0 0 auto;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.namemenu {
+  background-color: red;
+  font-size: 30px;
+  padding-bottom: 1px;
+  padding-top: 1px;
+}
+
+table {
+  width: 100%;
+  padding-left: 20%;
+  padding-right: 20%;
+  margin-top: 30px;
+}
+
+footer {
+  vertical-align: middle;
+  text-align: center;
+  color: black;
+  margin-top: 1%;
+  color: white;
+  background-color:  black;
+}
+
+a {
+  color: white;
+}
+
+.social a  {
+  color: black;
+}
+
+.social {
+  text-align: center;
+  margin: 2%;
+}
+
+span {
+  background-color: brown;
+}

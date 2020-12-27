@@ -1,0 +1,68 @@
+body {
+    font-size: 20px;
+    border: 0px;
+    margin: 0;
+    padding: 0;
+    line-height: normal;
+    background: linear-gradient(180deg, #D71313 0%, rgba(255, 255, 255, 0) 100%), #140202;
+}
+  
+header {
+ flex: 0 0 auto;
+}
+
+main {
+ flex: 1 0 auto;
+}
+
+footer {
+ flex: 0 0 auto;
+}
+
+.header-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: black;
+  color: white;
+}
+  
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+}
+  
+.shapka {
+    display: flex;
+    text-decoration: none;
+    color:white;
+    align-items: center;
+    margin: 50px;
+}
+  
+.glav {
+    padding: 20px;
+    align-items: center;
+}
+  
+.menuu {
+    padding: 20px;
+    text-align: center;
+}
+  
+.kontakti {
+    padding: 20px;
+    text-align: center;
+}
+  
+.akcii {
+    padding: 20px;
+    text-align: center;
+}
+  
+.otziv{
+    padding: 20px;
+    text-align: center;
+}
